@@ -3,5 +3,5 @@
 
 ## Установка
 ```
- curl -sSf https://raw.githubusercontent.com/TheWhiteDuke1/Installer2/main/Installer.sh| bash
+ curl -sSf https://raw.githubusercontent.com/TheWhiteDuke1/Installer2.0/main/Installer.sh| bash
  ```
